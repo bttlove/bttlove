@@ -43,15 +43,14 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,dotnet,cs,js,ts,html,css,tailwind,bootstrap,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,cs,js,html,css,github,git,vscode" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:thinhbui1907@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:0000CD&height=120&section=footer)
