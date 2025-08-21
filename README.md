@@ -1,11 +1,4 @@
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:0000CD&height=120&section=header)
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0000CD&width=500&lines=Dev+tại+PVI+Digital;Yêu+React+và+.NET;Luôn+học+hỏi+công+nghệ+mới" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 💼 Tui là **Dev** tại **Tổng công ty Bảo hiểm PVI - Chi nhánh Bảo hiểm PVI Digital**  
