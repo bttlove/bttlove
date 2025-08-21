@@ -1,8 +1,6 @@
 <h1>Hi. I'm Thịnh 👋👋</h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=bttlove&color=blue)
-
----
 ## 📊 GitHub Stats & Activities
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
