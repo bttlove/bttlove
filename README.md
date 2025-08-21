@@ -6,9 +6,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=bttlove&show_icons=true&theme=default&count_private=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttlove&layout=compact&count_private=true" />
-  </a>
+ 
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttlove&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
