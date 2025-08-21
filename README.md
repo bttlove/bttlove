@@ -12,15 +12,6 @@
 --------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bttlove&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bttlove&theme=default" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bttlove&theme=default&count_private=true" />
-</p>
-
 ---
 ## 💬 Quote of the Day
 <p align="center">
