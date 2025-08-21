@@ -1,5 +1,3 @@
-![wave](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:0000CD&height=120&section=header)
----
 
 💼 Tui là **Dev** tại **Tổng công ty Bảo hiểm PVI - Chi nhánh Bảo hiểm PVI Digital**  
 💻 Yêu thích lập trình web, đặc biệt là **React**, **.NET**, và bảo hiểm.  
