@@ -3,19 +3,17 @@
 ![Profile views](https://komarev.com/ghpvc/?username=bttlove&color=blue)
 ## 📊 GitHub Stats & Activities
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=bttlove&show_icons=true&theme=default&count_private=true" />
-  </a>
- 
-</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttlove&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttlove&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bttlove&theme=radical)](https://git.io/streak-stats)
 
 --------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bttlove&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bttlove&theme=default" />
 </p>
