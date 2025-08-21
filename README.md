@@ -1,4 +1,4 @@
-Hi. I'm Thịnh 👋👋
+<h1>Hi. I'm Thịnh 👋👋</h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=bttlove&color=blue)
 
