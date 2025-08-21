@@ -1,7 +1,4 @@
-
-💼 Tui là **Dev** tại **Tổng công ty Bảo hiểm PVI - Chi nhánh Bảo hiểm PVI Digital**  
-💻 Yêu thích lập trình web, đặc biệt là **React**, **.NET**, và bảo hiểm.  
-🚀 Luôn sẵn sàng học hỏi công nghệ mới và áp dụng vào dự án thực tế.  
+Hi. I'm Thịnh 👋👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=bttlove&color=blue)
 
