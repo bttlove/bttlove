@@ -10,15 +10,19 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttlove&layout=compact&count_private=true" />
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttlove&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+--------------------------------
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bttlove&theme=radical)](https://git.io/streak-stats)
+
+--------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bttlove&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bttlove&theme=default" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bttlove&theme=default&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bttlove&theme=flat&count_private=true&margin-w=10" />
 </p>
 
 ---
