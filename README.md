@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Thịnh 👋👋</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bttlove&color=blue" alt="Profile views" />
 </p>
 
