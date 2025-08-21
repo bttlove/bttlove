@@ -31,7 +31,8 @@ Hi. I'm Thịnh 👋👋
 
 ## 💬 Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+ <h1>버그가 생기면 고치세요.
+고칠 수 없다면, 클라이언트에게 프로모션 기능이며 추가 비용은 없다고 말하세요...</h1>
 </p>
 
 ---
